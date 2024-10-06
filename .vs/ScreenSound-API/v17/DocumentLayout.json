@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\projeto_api\\projeto-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|c:\\projetos\\projeto_api\\projeto-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|c:\\projetos\\projeto_api\\projeto-api\\modelos\\minhalistademusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|solutionrelative:modelos\\minhalistademusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|c:\\projetos\\projeto_api\\projeto-api\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|solutionrelative:filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|c:\\projetos\\projeto_api\\projeto-api\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|solutionrelative:modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|c:\\projetos\\projeto_api\\projeto-api\\modelos\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CBCBEA5-FC81-41C2-8117-5BC43E400217}|ScreenSound-API.csproj|solutionrelative:modelos\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\projeto_api\\projeto-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\projeto_api\\projeto-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:31:52.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinhaListaDeMusicas.cs",
+              "DocumentMoniker": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\MinhaListaDeMusicas.cs",
+              "RelativeDocumentMoniker": "Modelos\\MinhaListaDeMusicas.cs",
+              "ToolTip": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\MinhaListaDeMusicas.cs",
+              "RelativeToolTip": "Modelos\\MinhaListaDeMusicas.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:02:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Projetos\\projeto_api\\projeto-api\\Filtros\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "Filtros\\LinqOrder.cs",
+              "ToolTip": "C:\\Projetos\\projeto_api\\projeto-api\\Filtros\\LinqOrder.cs",
+              "RelativeToolTip": "Filtros\\LinqOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:55:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filmes.cs",
+              "DocumentMoniker": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\Filmes.cs",
+              "RelativeDocumentMoniker": "Modelos\\Filmes.cs",
+              "ToolTip": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\Filmes.cs",
+              "RelativeToolTip": "Modelos\\Filmes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:20:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "Modelos\\Musica.cs",
+              "ToolTip": "C:\\Projetos\\projeto_api\\projeto-api\\Modelos\\Musica.cs",
+              "RelativeToolTip": "Modelos\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:03:33.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
